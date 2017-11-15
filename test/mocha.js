@@ -1,5 +1,5 @@
 const {should, expect, assert} = require('chai')
-const {add, mul, cover} = require('../src/math')
+const {add, mul} = require('../src/math')
 
 describe('#math', () => {
   describe('add', () => {
